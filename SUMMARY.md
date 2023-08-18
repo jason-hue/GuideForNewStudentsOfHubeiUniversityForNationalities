@@ -1,0 +1,17 @@
+# Table of contents
+
+* [目录](README.md)
+* [电脑选购](dian-nao-xuan-gou.md)
+* [课程大致安排](ke-cheng-da-zhi-an-pai.md)
+* [e民大](e-min-da.md)
+* [入学考试](ru-xue-kao-shi.md)
+* [缴费](jiao-fei.md)
+* [宿舍](su-she.md)
+* [洗澡](xi-zao.md)
+* [快递](kuai-di.md)
+* [校园一卡通](xiao-yuan-yi-ka-tong.md)
+* [食堂](shi-tang.md)
+* [军训](jun-xun.md)
+* [校园网](xiao-yuan-wang.md)
+* [计算机专业初学者指南](ji-suan-ji-zhuan-ye-chu-xue-zhe-zhi-nan.md)
+* [寝室供电问题](qin-shi-gong-dian-wen-ti.md)
