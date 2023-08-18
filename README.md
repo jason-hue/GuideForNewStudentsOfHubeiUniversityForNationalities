@@ -14,7 +14,7 @@ description: by-爱也子的小航学长
 6. [宿舍](su-she.md)
 7. [洗澡](xi-zao.md)
 8. [快递](kuai-di.md)
-9. [校园一卡通](kuai-di.md)
+9. [校园一卡通](xiao-yuan-yi-ka-tong.md)
 10. [食堂](shi-tang.md)
 11. [军训](jun-xun.md)
 12. [校园网](xiao-yuan-wang.md)
