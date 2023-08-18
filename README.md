@@ -6,7 +6,7 @@ description: by-爱也子的小航学长
 
 
 
-1. [电脑选购](https://www.knifefire.top/hu-bei-min-zu-da-xue-xin-sheng-zhi-nan/dian-nao-xuan-gou)
+1. [电脑选购](dian-nao-xuan-gou.md)
 2. [课程时间大致安排](ke-cheng-da-zhi-an-pai.md)
 3. [e民大](e-min-da.md)
 4. [入学考试](ru-xue-kao-shi.md)
