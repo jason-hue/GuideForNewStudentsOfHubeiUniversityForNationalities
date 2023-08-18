@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [😍 目录](README.md)
 * [电脑选购](dian-nao-xuan-gou.md)
 * [课程大致安排](ke-cheng-da-zhi-an-pai.md)
 * [e民大](e-min-da.md)

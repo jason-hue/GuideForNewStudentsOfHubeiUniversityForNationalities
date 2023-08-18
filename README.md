@@ -1,8 +1,23 @@
 ---
 description: by-爱也子的小航学长
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 目录
+# 😍 目录
 
 
 
@@ -20,4 +35,8 @@ description: by-爱也子的小航学长
 12. [校园网](xiao-yuan-wang.md)
 13. [计算机专业初学者指南](ji-suan-ji-zhuan-ye-chu-xue-zhe-zhi-nan.md)
 14. [寝室供电问题](qin-shi-gong-dian-wen-ti.md)
+
+![](.gitbook/assets/6d2d590142670058c9b15d48653949a.jpg)![](.gitbook/assets/77d9effd012100fbe0337dd98ff841d.jpg)
+
+_<mark style="color:red;">**我知道你们累了，快去看也子的新剧！！！**</mark>_
 
